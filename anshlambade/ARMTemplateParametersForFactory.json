@@ -8,8 +8,32 @@
 		"AzureDataLakeStorage1_accountKey": {
 			"value": ""
 		},
+		"shir_sql_server_password": {
+			"value": ""
+		},
+		"SqlServer1_password": {
+			"value": ""
+		},
 		"AzureDataLakeStorage1_properties_typeProperties_url": {
 			"value": "https://pysparktransformations.dfs.core.windows.net/"
+		},
+		"shir_sql_server_properties_typeProperties_server": {
+			"value": "CHENG\\SQLEXPRESS"
+		},
+		"shir_sql_server_properties_typeProperties_database": {
+			"value": "employee"
+		},
+		"shir_sql_server_properties_typeProperties_userName": {
+			"value": "akilandeswari"
+		},
+		"SqlServer1_properties_typeProperties_server": {
+			"value": "localhost"
+		},
+		"SqlServer1_properties_typeProperties_database": {
+			"value": "employee"
+		},
+		"SqlServer1_properties_typeProperties_userName": {
+			"value": "akilandeswari"
 		}
 	}
 }

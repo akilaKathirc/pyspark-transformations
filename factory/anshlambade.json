@@ -1,0 +1,9 @@
+{
+	"name": "anshlambade",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "b7eb38f1-df12-4be0-82de-d6ba933dccef",
+		"tenantId": "80c649eb-2a8c-4034-a7e1-5f99a3e482d6"
+	}
+}
